@@ -5,6 +5,7 @@ export default function NavNorth() {
   return (
     <div className={styles.container}>
       north
+      <div>🗂</div>
     </div>
   )
 }

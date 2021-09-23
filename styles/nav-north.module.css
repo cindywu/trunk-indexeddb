@@ -1,4 +1,5 @@
 .container {
   height: 6vh;
   background-color: palevioletred;
+  padding: 2em;
 }
